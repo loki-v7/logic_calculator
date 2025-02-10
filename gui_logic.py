@@ -67,7 +67,7 @@ def enter(equation_list) -> None:
 
 def funny_function() -> None:
     modify(' get rickrolled lol ')
-    os.system('chromium https://shattereddisk.github.io/rickroll/rickroll.mp4')
+    os.system('chromium https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 
 def OR(a, b) -> bool:
     if a == True or b == True:
